@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    background-color:black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 3;
+
+}
+
+ul{
+    margin: 0 auto;
+    text-align: center;
+    line-height: 2;
+}
