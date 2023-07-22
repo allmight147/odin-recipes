@@ -1,14 +1,36 @@
 h1{
+    display: block;
+    border: 10px solid #36454f;
     text-align: center;
     background-color:black;
     color: white;
     font-family: 'Times New Roman', Times, serif;
-    line-height: 3;
+    padding: 80px;
+    width: 90%;
+   
 
 }
 
-ul{
-    margin: 0 auto;
+a {
+    font-size: 24px;
+  }
+a:visited{
+    color: white;
+}
+  
+span{
+    display: block;
+    width: 90%;
+    height: 100%;
+    border: 6px solid black;
+    border-radius: 10px;
+    padding: 70px;
+    margin-left: 10px;
+    
+    background-color: #36454f;
     text-align: center;
-    line-height: 2;
+    margin-bottom: 16px;
+    
+    
 }
+
